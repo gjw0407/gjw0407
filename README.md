@@ -1,16 +1,13 @@
-### Hi there 👋
+# Projects
 
-<!--
-**gjw0407/gjw0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Twitter Dashboard (2022.04 ~ )
 
-Here are some ideas to get you started:
+Role : Backend + Frontend Dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trending Issue Heatmap (2022.01 ~ 2022.04)
+
+Role : Backend + Frontend Dev. 
+
+## Corc (2021.05 ~ 2021.06)
+
+Role : Backend Dev.
